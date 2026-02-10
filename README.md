@@ -4,6 +4,8 @@
 
 The Philosophy Number Chrome extension calculates the "philosophy distance" for any Wikipedia article you visit. The philosophy distance is the number of clicks it takes to reach the Wikipedia article on "Philosophy" by following the first link in the main text of each article.
 
+This concept was inspired by the idea of measuring “distance” between entities in networks, such as the Paul Erdős number in mathematics and the Kevin Bacon number in acting. Both numbers represent the degrees of separation between individuals through collaborative links. This idea was popularized by Six Degrees of Separation.
+
 ## How It Works
 
 - When you visit a Wikipedia article, the extension analyzes the main content.
