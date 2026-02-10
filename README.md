@@ -34,5 +34,5 @@ This project is licensed under the MIT License.
 ## Screenshot
 
 <p align="center">
-  <img src="images/screenshot.png" alt="Philosophy Number Extension Screenshot" />
+  <img src="images/Screenshot.png" alt="Philosophy Number Extension Screenshot" />
 </p>
